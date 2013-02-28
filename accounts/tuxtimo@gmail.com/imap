@@ -1,0 +1,10 @@
+# -*- Mode: muttrc -*-
+# imap config
+
+set imap_user = "tuxtimo@gmail.com"
+set imap_keepalive = 300
+set imap_check_subscribed
+set folder = "imaps://imap.gmail.com:993"
+set spoolfile = "+INBOX"
+set postponed = "+[GMail]/Drafts"
+set record = "+[GMail]/Sent Mail"
