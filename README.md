@@ -16,4 +16,4 @@ Maybe you have to replace the `$TERM` environment variable to `xterm-256color` t
 
 ### Replace my stuff with your stuff if you are not me!
 
-If you are not Timo Furrer and do not use the mail address `tuxtimo@gmail.com` - replace my mail configurations if your own!
+If you are not Timo Furrer and do not use the mail address `tuxtimo@gmail.com` - replace my mail configuration with your own one!
