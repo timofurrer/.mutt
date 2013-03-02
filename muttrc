@@ -31,6 +31,7 @@ auto_view text/html
 bind editor <Tab> complete-query
 bind editor ^T complete
 bind editor <space> noop
+bind index  <F5> imap-fetch-mail
 
 # macros
 macro index,pager y "<enter-command>unset trash\n <delete-message>" "Gmail archive message"
