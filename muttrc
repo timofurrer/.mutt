@@ -42,3 +42,5 @@ macro index,pager gs "<change-folder>=[Gmail]/Starred<enter>" "Go to starred mes
 macro index,pager gd "<change-folder>=[Gmail]/Drafts<enter>" "Go to drafts"
 macro pager A "<copy-message>=git/patch<enter><enter><shell-escape>git am ~/Mail/git/patch ; rm -f ~/Mail/git/patch<enter><enter>" "Apply git patch"
 
+# use urlscan to scan URLs out of a message
+macro index,pager \cb '<pipe-message> urlscan<enter>' 'call urlscan to extract URLs out of a message'
