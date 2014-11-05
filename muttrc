@@ -5,6 +5,7 @@
 source ~/.mutt/themes/mutt-colors-solarized/mutt-colors-solarized-dark-256.muttrc
 
 # config files for tuxtimo@gmail.com
+source ~/.mutt/accounts/tuxtimo@gmail.com/identity
 source ~/.mutt/accounts/tuxtimo@gmail.com/imap
 source ~/.mutt/accounts/tuxtimo@gmail.com/smtp
 

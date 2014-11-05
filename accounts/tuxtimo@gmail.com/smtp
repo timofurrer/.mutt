@@ -1,4 +1,5 @@
 # -*- Mode: muttrc -*-
 # smtp config
 
+set ssl_starttls = yes
 set smtp_url = "smtp://tuxtimo@smtp.gmail.com:587/"

@@ -1,6 +1,0 @@
-# -*- Mode: muttrc -*-
-# general config
-
-set realname = "Timo Furrer"
-set from = "tuxtimo@gmail.com"
-set hostname = gmail.com

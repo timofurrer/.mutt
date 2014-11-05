@@ -1,0 +1,11 @@
+# -*- Mode: muttrc -*-
+# identity config
+
+# Explain myself for emails
+set realname = "Timo Furrer"
+set from = "tuxtimo@gmail.com"
+set hostname = gmail.com
+
+# signature
+set sig_dashes = "no"
+set signature = "~/.mutt/accounts/tuxtimo@gmail.com/signature"
